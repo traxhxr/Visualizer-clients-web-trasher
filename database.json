@@ -22,19 +22,45 @@
       }
     ]
   },
-  "cliente2": {
-    "password": "clave_segura",
+  "Jaffet": {
+    "password": "admin1",
     "project": {
-      "name": "Single: Verano",
-      "artist": "La Banda X"
+      "name": "Tu no me llamas",
+      "artist": "Jaffet"
     },
     "tracks": [
       {
-        "title": "Master Final",
-        "url": "https://dl.dropboxusercontent.com/s/xyz/ejemplo.mp3",
-        "version": "Final",
-        "date": "2024-02-01",
-        "format": "WAV 24bit"
+        "title": "Si tu no me llamas (Prod)",
+        "url": "https://www.dropbox.com/scl/fi/r4k4bdfhuya5llw72dem2/dancehall-jaffet.mp3?rlkey=6cx60q39y0qjjcua4fzb1rkax&st=y5db1g5k&dl=0",
+        "version": "v1.0",
+        "date": "28/1/2026"
+      },
+      {
+        "title": "Tema 2",
+        "url": "https://www.dropbox.com/scl/fi/xsjfxr0dxnt9ywz0030sa/REGGAETON-PERUANO-Mc-Francia-Gitana.mp3?rlkey=a1y1mhgg6ttagdk8x6bl3r8dx&st=bjl7z7sx&dl=0",
+        "version": "v1.5",
+        "date": "28/1/2026"
+      }
+    ]
+  },
+  "Jony Song": {
+    "password": "admin2",
+    "project": {
+      "name": "Prueba 2",
+      "artist": "Jony Song"
+    },
+    "tracks": [
+      {
+        "title": "Pista 1",
+        "url": "https://www.dropbox.com/scl/fi/xsjfxr0dxnt9ywz0030sa/REGGAETON-PERUANO-Mc-Francia-Gitana.mp3?rlkey=a1y1mhgg6ttagdk8x6bl3r8dx&st=bjl7z7sx&dl=0",
+        "version": "v1.3",
+        "date": "28/1/2026"
+      },
+      {
+        "title": "pista 2",
+        "url": "https://www.dropbox.com/scl/fi/r4k4bdfhuya5llw72dem2/dancehall-jaffet.mp3?rlkey=6cx60q39y0qjjcua4fzb1rkax&st=67x4mq1u&dl=0",
+        "version": "v1.0",
+        "date": "28/1/2026"
       }
     ]
   }
