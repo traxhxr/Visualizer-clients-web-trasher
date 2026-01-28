@@ -1,0 +1,41 @@
+{
+  "cliente1": {
+    "password": "demo123",
+    "project": {
+      "name": "Album: Renacer",
+      "artist": "Artista Ejemplo"
+    },
+    "tracks": [
+      {
+        "title": "Maqueta Inicial",
+        "url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3",
+        "version": "v1.0",
+        "date": "2024-01-20",
+        "format": "MP3 Demo"
+      },
+      {
+        "title": "Mix Referencia",
+        "url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Elisions.mp3",
+        "version": "v1.2",
+        "date": "2024-01-25",
+        "format": "WAV"
+      }
+    ]
+  },
+  "cliente2": {
+    "password": "clave_segura",
+    "project": {
+      "name": "Single: Verano",
+      "artist": "La Banda X"
+    },
+    "tracks": [
+      {
+        "title": "Master Final",
+        "url": "https://dl.dropboxusercontent.com/s/xyz/ejemplo.mp3",
+        "version": "Final",
+        "date": "2024-02-01",
+        "format": "WAV 24bit"
+      }
+    ]
+  }
+}
