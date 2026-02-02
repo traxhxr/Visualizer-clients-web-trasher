@@ -87,5 +87,20 @@
         "date": "28/1/2026"
       }
     ]
+  },
+  "dakriss": {
+    "password": "E4xve255",
+    "project": {
+      "name": "Quizá",
+      "artist": "Dakriss La270"
+    },
+    "tracks": [
+      {
+        "title": "Quizá (PROD)",
+        "url": "https://www.dropbox.com/scl/fi/mlwatscfd0xg9vjxeyeut/Drakiss_Quiza_prod_v1.0.mp3?rlkey=7lno4ehiqsqsmu238lsoblg8g&st=bl1jaiif&dl=0",
+        "version": "v1.0",
+        "date": "2/2/2026"
+      }
+    ]
   }
 }
