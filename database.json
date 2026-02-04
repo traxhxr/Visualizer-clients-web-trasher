@@ -102,5 +102,20 @@
         "date": "2/2/2026"
       }
     ]
+  },
+  "Euler1": {
+    "password": "ytQFGx",
+    "project": {
+      "name": "Gitana",
+      "artist": "Euler"
+    },
+    "tracks": [
+      {
+        "title": "Instrumental Prod",
+        "url": "https://www.dropbox.com/scl/fi/wuqj5dwtgolx70td0t304/Euler_Gitana_ProdBeat.mp3?rlkey=g7euzlgfdmabzs99rnho36ks0&st=moyt0klc&dl=0",
+        "version": "v1.0",
+        "date": "3/2/2026"
+      }
+    ]
   }
 }
